@@ -12,8 +12,8 @@
 
 ## Data Processing
 1. Move the downloaded file to a new folder that the notebook loacted, note that the new folder should only contains the three new downloaded files
-2. Change the code ```folder_path = 'New Folder Name' ``` in second cell to the new folder name.
-3. Change the code ```target_month = 11 ``` and ```target_year = 2023 ``` in the last cell to the currerent month.
+2. Change the code ```folder_path = 'New Folder Name'``` in second cell to the new folder name.
+3. Change the code ```target_month = 11``` and ```target_year = 2023``` in the last cell to the currerent month.
 4. Create a folder named 'output' (could be modified if want to by the last line of code)
 5. Run the entire notebook
 6. Check that the file 't_checkit_meter_consumption_detail_yyyy_mm.csv' have been created in the output folder
