@@ -4,7 +4,7 @@
 1. Login to https://cbm.checkit.net/weblogin
 2. Select ESTATE: Waitrose, GROUP: All Buildings, BUILDING: 0775 - WR Leyland RDC, then press electricity meters
 3. Select Date Range, from first of the month to end of the month
-4. Select Half Hourly Date (By default)
+4. Select Half Hourly Data (By default)
 5. Select the following three meters and download one by one (the button next to question mark)
 - DB 1-12 Sitewide Trailer Hookup Points_DB 1-12 Sitewide Trailer Hookup Points
 - Trailer Hook Up Points BusBar East_Trailer Hook Up Points BusBar East
